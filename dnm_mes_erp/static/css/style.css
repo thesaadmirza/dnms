@@ -1,0 +1,15 @@
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    border-color: #ddd #ddd #ddd;
+}
+
+.img-thumbnail {
+    border: none;
+}
+
+textarea { 
+    height: 50px;
+}
+
+.row {
+    padding : 15px;
+}
